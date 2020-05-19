@@ -1,0 +1,44 @@
+{
+    "name": "pro-dark-visual-studio-code",
+    "displayName": "Pro Dark",
+    "description": "A neutral, clean, and professional theme for Visual Studio Code.",
+    "version": "0.1.0",
+    "publisher": "Kapax",
+    "author": {
+        "name": "Kapax",
+        "email": "support@kapax.pro",
+        "url": "https://www.kapax.pro"
+    },
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/kapax-pro/pro-dark-visual-studio-code"
+	},
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "galleryBanner": {
+        "color": "#1f1f1f",
+        "theme": "dark"
+    },
+    "icon": "assets/repository-icon.png",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "pro",
+        "neutral",
+        "clean",
+        "dark",
+        "professional"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pro Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pro-dark-color-theme.json"
+            }
+        ]
+    }
+}
