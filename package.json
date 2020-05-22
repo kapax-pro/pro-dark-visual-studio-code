@@ -2,13 +2,14 @@
     "name": "pro-dark-visual-studio-code",
     "displayName": "Pro Dark",
     "description": "A neutral, clean, and professional theme for Visual Studio Code.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "Kapax",
     "author": {
         "name": "Kapax",
         "email": "support@kapax.pro",
         "url": "https://www.kapax.pro"
     },
+    "homepage": "https://www.kapax.pro/products/pro-dark-visual-studio-code",
     "repository": {
 		"type": "git",
 		"url": "https://github.com/kapax-pro/pro-dark-visual-studio-code"
