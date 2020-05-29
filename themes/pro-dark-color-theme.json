@@ -138,8 +138,8 @@
 		"editor.inactiveSelectionBackground": "#2c2c2ccc",
 		"editor.selectionHighlightBackground": "#2c2c2caa",
 
-        "editor.wordHighlightBackground": "#7b95af66",
-		"editor.wordHighlightStrongBackground": "#7b95af99",
+        "editor.wordHighlightBackground": "#3f3f3f66",
+		"editor.wordHighlightStrongBackground": "#3f3f3f99",
 
 		"editor.findMatchBackground": "#7b95af66",
 		"editor.findMatchHighlightBackground": "#7b95af33",
